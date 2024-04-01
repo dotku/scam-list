@@ -1,5 +1,7 @@
 # scam-list
 
+A free anti scam app that could help ppl to protect their property.
+
 ## Scams
 
 * +1(210)821-4160: This caller claimed that he is from AT&T. When I was asking if we can talk in English, he respond: F**k U and hand off.
